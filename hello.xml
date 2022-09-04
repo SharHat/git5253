@@ -1,5 +1,10 @@
 <product>
+<<<<<<< HEAD
 	        <name>mobile</name>
 		<price>25000</price>
 		<id>001</id/
+=======
+	        <name>laptop</name>
+		<price>50000</price>
+>>>>>>> GitWork
 </product>
